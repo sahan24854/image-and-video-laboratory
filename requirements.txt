@@ -1,0 +1,2 @@
+# Streamlit Community Cloud installs the local package with its UI dependencies.
+.[ui]

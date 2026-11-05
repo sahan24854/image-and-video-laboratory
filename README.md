@@ -167,3 +167,7 @@ The guide also explains wavelets, directional intra prediction, fractional-pixel
 Developed from the author's EE596 image and video coding project. The original notebook and progress PDF preserve the coursework context. The report references [mVirtuoso21/JPEG-Image-Compressor](https://github.com/mVirtuoso21/JPEG-Image-Compressor) and [simonebenitozzi/jpeg-compression](https://github.com/simonebenitozzi/jpeg-compression).
 
 A redistribution license has not yet been selected. Public availability alone does not grant a software reuse license.
+
+## Host a public demo
+
+Deploy this repository on [Streamlit Community Cloud](https://share.streamlit.io/) using branch `main`, entrypoint `app.py`, and Python 3.12. The root `requirements.txt` installs the app dependencies. Follow the [deployment guide](docs/DEPLOYMENT.md). The public app URL is assigned after deployment; GitHub Pages cannot run this Python application.
