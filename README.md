@@ -12,7 +12,7 @@
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Tests](https://github.com/sahan24854/image-and-video-laboratory/actions/workflows/tests.yml/badge.svg)
 
-[Quick start](#quick-start) · [Experiments](docs/EXPERIMENT_PLAN.md) · [Testing guide](docs/TESTING.md)
+[**Open the live laboratory**](https://image-and-video-laboratory-xp5bshgsbz4ssbvhsbg4f9.streamlit.app/) · [Quick start](#quick-start) · [Experiments](docs/EXPERIMENT_PLAN.md) · [Testing guide](docs/TESTING.md)
 
 </div>
 
@@ -38,6 +38,10 @@ The animation above illustrates the pipeline. The app's simulations expose real 
 | Comparisons | Editable labels/notes, selectable runs, zoomable plots, CSV and media downloads |
 
 The default JPEG quantization tables require 8×8 blocks. Choose **weighted** or **uniform** to enable the other block sizes.
+
+## Try it online
+
+**[Launch Image and Video Laboratory](https://image-and-video-laboratory-xp5bshgsbz4ssbvhsbg4f9.streamlit.app/)** — no installation required. Start with the built-in examples, run the validation bench, and explore image and video coding in your browser.
 
 ## Quick start
 
@@ -170,4 +174,4 @@ A redistribution license has not yet been selected. Public availability alone do
 
 ## Host a public demo
 
-Deploy this repository on [Streamlit Community Cloud](https://share.streamlit.io/) using branch `main`, entrypoint `app.py`, and Python 3.12. The root `requirements.txt` installs the app dependencies. Follow the [deployment guide](docs/DEPLOYMENT.md). The public app URL is assigned after deployment; GitHub Pages cannot run this Python application.
+Deploy this repository on [Streamlit Community Cloud](https://share.streamlit.io/) using branch `main`, entrypoint `app.py`, and Python 3.12. The root `requirements.txt` installs the app dependencies. Follow the [deployment guide](docs/DEPLOYMENT.md). The current public demo is [available here](https://image-and-video-laboratory-xp5bshgsbz4ssbvhsbg4f9.streamlit.app/). GitHub Pages cannot run this Python application.

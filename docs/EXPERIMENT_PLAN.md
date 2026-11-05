@@ -4,6 +4,10 @@
 
 Measure how transform, quantization, chroma sampling and temporal prediction change actual compressed size, reconstruction quality and execution time. Distinguish correctness checks from content-dependent observations. No single setting is expected to win every comparison.
 
+## Online access
+
+Open the [deployed laboratory](https://image-and-video-laboratory-xp5bshgsbz4ssbvhsbg4f9.streamlit.app/) to run the UI experiments without local setup. The unit-test command below applies to local installations; online users can start with the Validation bench.
+
 ## Preparation and acceptance checks
 
 1. Activate the project environment and install the UI: `python -m pip install -e '.[ui]'`.

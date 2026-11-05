@@ -1,5 +1,13 @@
 # Publish the interactive laboratory
 
+## Current public deployment
+
+[Open Image and Video Laboratory](https://image-and-video-laboratory-xp5bshgsbz4ssbvhsbg4f9.streamlit.app/)
+
+Use the built-in inputs and Validation bench to check the deployed application before running your own experiments.
+
+## Deploy another instance
+
 The Python application runs on Streamlit Community Cloud; GitHub hosts its source. GitHub Pages alone cannot execute the codec.
 
 1. Sign in at https://share.streamlit.io with your GitHub account and authorize repository access.

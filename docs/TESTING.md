@@ -1,5 +1,7 @@
 # Hands-on laboratory checks
 
+You can run the UI experiments on the [live laboratory](https://image-and-video-laboratory-xp5bshgsbz4ssbvhsbg4f9.streamlit.app/) without installing anything. Automated tests require a local checkout.
+
 Launch with `.venv/bin/streamlit run app.py` after installing `python -m pip install -e '.[ui]'` in your environment.
 
 1. Open **Validation bench · guided tests** and run the self-checks. All four should show PASS.
