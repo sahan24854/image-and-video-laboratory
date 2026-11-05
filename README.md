@@ -1,6 +1,6 @@
 <div align="center">
 
-# Image and Viseio Laboratory
+# Image and Video Laboratory
 
 ### An interactive laboratory for image and hybrid video coding
 
@@ -10,7 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Tests](https://github.com/sahan24854/Image-and-Viseio-Laboratory/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/sahan24854/image-and-video-laboratory/actions/workflows/tests.yml/badge.svg)
 
 [Quick start](#quick-start) · [Experiments](docs/EXPERIMENT_PLAN.md) · [Testing guide](docs/TESTING.md)
 
@@ -44,8 +44,8 @@ The default JPEG quantization tables require 8×8 blocks. Choose **weighted** or
 Use Python 3.10 or later. Run these commands in a terminal:
 
 ```sh
-git clone https://github.com/sahan24854/Image-and-Viseio-Laboratory.git
-cd Image-and-Viseio-Laboratory
+git clone https://github.com/sahan24854/image-and-video-laboratory.git
+cd image-and-video-laboratory
 python -m venv .venv
 ```
 
